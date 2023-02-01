@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="322bd37d-7b7e-4dcb-b3d0-2aa97b941b67" name="SQLServer" url="jdbc:jtds:sqlserver://localhost/Pru" driverClass="net.sourceforge.jtds.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>

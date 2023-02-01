@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" migrateIndexesAndConstraints="true">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="322bd37d-7b7e-4dcb-b3d0-2aa97b941b67" />
+    <option name="reLastEntityCreationPackage" value="msvc-cursos/src/main/java/com/jjacome/springcloudmsvc/usuarios/models/entity" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="322bd37d-7b7e-4dcb-b3d0-2aa97b941b67" />
+    </reUseDbSnapshotConnections>
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="322bd37d-7b7e-4dcb-b3d0-2aa97b941b67" />
+    </option>
+  </component>
+</project>
